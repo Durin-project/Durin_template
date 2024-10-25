@@ -1,7 +1,6 @@
-# PFTC_template
+# Durin_template
 
-This GitHub repository is a template repo for the PFTC courses.
-For more information about PFTC see [here](https://plantfunctionaltraitscourses.w.uib.no/).
+This GitHub repository is a template repo for the Durin project.
 
 This repo is aimed at data sciences in ecology, but can also be used in other fields.
 
